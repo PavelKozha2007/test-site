@@ -1,5 +1,7 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="ru">
 <head>
+   <meta charset="UTF-8">
    <title>Страница1</title>
    <link rel="stylesheet" href="style.css">
    <link rel="shortcut icon" href="img/favicon.png">
