@@ -13,10 +13,10 @@
             <img src="img/favicon.png">
             <ul class="header_list">
                <li class="header_list-link">
-                  <a class="header_list-item" href="test1.md">test1</a>
+                  <a class="header_list-item" href="test1.html">test1</a>
                </li>
                <li class="header_list-link">
-                  <a class="header_list-item" href="test2.md">test2</a>
+                  <a class="header_list-item" href="test2.html">test2</a>
                </li>
                <li class="header_list-link">
                   <a class="header_list-item" href="index.html">Home</a>
