@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+p {
+  color: #00FFFF;
+  font-size: 30px;
+}
+.header {
+  padding: 30px 0px 50px 0px;
+}
+.header_container {
+  max-width: 500px;
+  background-color: #888888;
+  margin-inline: auto;
+}
+.header_nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_list {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+}
