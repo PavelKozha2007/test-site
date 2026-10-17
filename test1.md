@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-   <title>doc</title>
+   <title>Страница1</title>
    <link rel="stylesheet" href="style.css">
    <link rel="shortcut icon" href="img/favicon.png">
 </head>
