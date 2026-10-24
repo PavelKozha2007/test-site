@@ -16,7 +16,6 @@ main {
   margin-top: 94px;
 }
 .header {
-  margin-inline: 5%;
   top: 0;
   position: fixed;
   width: 100%;
@@ -26,7 +25,7 @@ main {
 .header_container {
   min-width: 500px;
   max-width: 1200px;
-  margin-inline: auto;
+  margin-inline: 5%;
   background-color: #FFFFFF;
 }
 .header_nav {
