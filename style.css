@@ -16,6 +16,7 @@ main {
   margin-top: 94px;
 }
 .header {
+  margin-inline: 5%;
   top: 0;
   position: fixed;
   width: 100%;
